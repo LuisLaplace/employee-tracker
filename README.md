@@ -124,5 +124,8 @@ You are required to submit the following for review:
 - - -
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 
+https://luislaplace.github.io/employee-tracker/
+
+https://github.com/LuisLaplace/employee-tracker
 
 ![alt text](<Assets/Screenshot 2024-03-19 075124.png>)
